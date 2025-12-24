@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Keara Hill, Upstate New York native and Digital Equipment Corporation fan. Currently I am a PhD Candidate in CS at Binghamton University, working on probabilistic methods for reasoning about software exploitability with [Eric Atkinson](https://eatkinson.ca/). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Previously I worked as a Software Engineer for Grammatech (Oct 2019-Feb 2023) and Assured Information Security (Sept 2015-Sept 2019) working on various projects in the defensive security space.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Additionally, I have been _DJ Landshark_ at [WHRW 90.5FM](https://whrw.fm/) on and off since December 2012. I play songs on the continuum from blues to garage rock, so if that sounds up your alley please tune in!
 
-
-[jekyll-organization]: https://github.com/jekyll
+Some other hobbies include boxing, horses, and fountain pens.

@@ -13,23 +13,47 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Keara Hill
-  #email: khill9@binghamton.edu
+title: "Keara Hill's personal page"
+author: Keara Hill 
+email: khill9@binghamton.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Keara Hill, Formal Methods and Software Security Researcher
-  PhD Student Binghamton University
+  PhD Candidate in Computer Science @ Binghamton University working in security and formal methods.
+
+  Radio DJ @ <a href="https://whrw.fm/">WHRW 90.5FM</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://landshark.digital" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: 
 github_username:  LadyLandshark
-
-# Build settings
-markdown: kramdown
-  #theme: no-style-please
+ 
 remote_theme: "https://github.com/riggraz/no-style-please"
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+  lowercase_titles: false # show titles in lowercase in lists
+
+sass:
+  style: compressed
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
+  - jektex
+
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
+
+# Build settings
+#markdown: kramdown
+  #theme: no-style-please
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

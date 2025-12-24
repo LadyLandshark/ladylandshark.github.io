@@ -1,0 +1,34 @@
+entries:
+  - title: Research
+    entries:
+      - title: Publications
+        url: /publications
+  - title: Radio Schedule
+    entries:
+      - title: (Tuesdays 1300-1400 until Jan 13, weather permitting)
+
+  - title: Playlists  
+    post_list:
+      limit: 3
+      category: playlist
+      show_more: true
+      show_more_text: More playlists...
+      show_more_url: radio-archive.html
+
+  - title: About me
+    url: about
+
+  - title: Links
+    entries:
+      - title: Github
+        url: https://github.com/LadyLandshark
+
+  - title: Posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+
+
