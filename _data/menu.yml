@@ -25,7 +25,7 @@ entries:
 
   - title: Posts
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
