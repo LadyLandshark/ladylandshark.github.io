@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/4/13)
 Sympathy for the Devil- The Rolling Stones
 

@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/17/25)
 Leavin’ Trunk- Keef Hartley
 Miss Amanda Jones- The Rolling Stones

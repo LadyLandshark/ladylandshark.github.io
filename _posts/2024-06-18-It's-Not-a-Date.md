@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/18/24)
 Undercover of the Night- The Rolling Stones
 

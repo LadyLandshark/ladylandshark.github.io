@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (10/8/14)
 Street Fighting Man- The Rolling Stones
 

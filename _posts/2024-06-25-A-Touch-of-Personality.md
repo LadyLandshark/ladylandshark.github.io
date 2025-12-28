@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/25/24)
 Who's Driving Your Plane- The Rolling Stones
 

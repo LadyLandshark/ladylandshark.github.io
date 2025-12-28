@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (9/2/25)
 Rip This Joint- The Rolling Stones
 

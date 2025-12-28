@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (2/4/14)
 My Obsession- The Rolling Stones
 

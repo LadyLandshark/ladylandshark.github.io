@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/12/25)
 Dear Doctor- The Rolling Stones
 

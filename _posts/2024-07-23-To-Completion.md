@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/23/24)
 Miss Amanda Jones- The Rolling Stones
 

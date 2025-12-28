@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/4/14)
 Tumbling Dice- The Rolling Stones
 

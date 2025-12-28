@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (11/8/13)
 Dead Flowers- The Rolling Stones
 

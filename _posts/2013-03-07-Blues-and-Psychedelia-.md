@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/7/13)
 2000 Light Years From Home- The Rolling Stones
 

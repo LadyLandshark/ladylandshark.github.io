@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/11/13)
 Midnight Rambler- The Rolling Stones
 

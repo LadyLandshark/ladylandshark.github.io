@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/18/25)
 Monkey Man- The Rolling Stones
 

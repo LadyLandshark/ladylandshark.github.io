@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 2/14/13
 Who’s Driving Your Plane- The Rolling Stones
 

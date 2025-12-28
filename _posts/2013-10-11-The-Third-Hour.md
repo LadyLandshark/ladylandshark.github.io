@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (10/11/13)
 Miss Amanda Jones- The Rolling Stones
 

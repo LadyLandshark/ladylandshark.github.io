@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (9/20/13)
 Can’t You Hear Me Knocking- The Rolling Stones
 

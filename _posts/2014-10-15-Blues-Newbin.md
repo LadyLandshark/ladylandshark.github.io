@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (10/15/14)
 Miss You- The Rolling Stones
 

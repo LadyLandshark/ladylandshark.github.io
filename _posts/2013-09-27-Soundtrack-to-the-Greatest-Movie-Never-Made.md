@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (9/27/13)
 Gimme Shelter- The Rolling Stones
 

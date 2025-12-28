@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/6/14)
 Undercover of the Night- The Rolling Stones
 

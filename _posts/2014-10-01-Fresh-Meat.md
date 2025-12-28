@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (10/1/14)
 (I Can’t Get No) Satisfaction- The Rolling Stones
 

@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/5/13)
 Live With Me- The Rolling Stones
 

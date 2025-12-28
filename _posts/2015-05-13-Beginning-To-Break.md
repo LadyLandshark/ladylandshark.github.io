@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/13/15)
 Undercover of the Night- The Rolling Stone
 

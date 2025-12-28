@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/11/15)
 Stray Cat Blues- The Rolling Stones
 

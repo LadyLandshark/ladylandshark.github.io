@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (2/28/14)
 Heart of Stone- The Rolling Stones
 

@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/12/13)
 Ventilator Blues- The Rolling Stones
 

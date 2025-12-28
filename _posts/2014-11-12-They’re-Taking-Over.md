@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (11/12/14)
 You Got to Move- The Rolling Stones
 

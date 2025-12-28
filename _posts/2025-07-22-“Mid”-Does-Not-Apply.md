@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/22/25)
 Sympathy For the Devil- The Rolling Stones
 

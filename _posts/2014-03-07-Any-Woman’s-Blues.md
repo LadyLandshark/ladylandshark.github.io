@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/7/14)
 Gimme Shelter- The Rolling Stones
 

@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/24/13)
 Undercover of the Night- The Rolling Stones
 

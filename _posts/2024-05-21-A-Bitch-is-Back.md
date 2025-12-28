@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/21/24)
 Medley (Get Up Offa That Thing/Release the Pressure) - James Brown
 

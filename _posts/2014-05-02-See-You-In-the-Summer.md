@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/2/14)
 Waiting on a Friend- The Rolling Stones
 

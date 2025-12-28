@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/2/14)
 Aladdin Story- The Rolling Stones
 

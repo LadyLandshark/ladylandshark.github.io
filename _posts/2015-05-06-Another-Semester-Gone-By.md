@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/6/15)
 Brown Sugar- The Rolling Stones
 

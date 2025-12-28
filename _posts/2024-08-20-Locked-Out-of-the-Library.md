@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/20/24)
 So Divine (Aladdin Story)- The Rolling Stones
 

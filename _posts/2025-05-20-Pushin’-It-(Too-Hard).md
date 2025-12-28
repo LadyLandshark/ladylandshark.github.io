@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/20/25)
 Undercover of the Night- The Rolling Stones
 

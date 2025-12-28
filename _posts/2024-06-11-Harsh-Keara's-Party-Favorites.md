@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/11/24)
 Honky Tonk Women- The Rolling Stones
 

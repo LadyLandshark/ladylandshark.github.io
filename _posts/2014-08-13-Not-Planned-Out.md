@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/13/14)
 Little Queenie- The Rolling Stones
 

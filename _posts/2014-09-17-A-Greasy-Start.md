@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (9/17/14)
 Ventilator Blues- The Rolling Stones
 

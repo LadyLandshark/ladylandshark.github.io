@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/27/25)
 Shine a Light- The Rolling Stones
 

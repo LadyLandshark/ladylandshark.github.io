@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/11/25)
 Miss Amanda Jones- The Rolling Stones
 

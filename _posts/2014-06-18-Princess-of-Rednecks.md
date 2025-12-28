@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/18/14)
 You Got the Silver- The Rolling Stones
 

@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (6/4/24)
 Monkey Man- The Rolling Stones
 

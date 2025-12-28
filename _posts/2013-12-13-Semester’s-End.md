@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (12/13/13)
 Let It Bleed- The Rolling Stones
 

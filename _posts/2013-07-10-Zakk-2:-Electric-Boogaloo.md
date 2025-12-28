@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/10/13)
 She’s So Cold- The Rolling Stones
 

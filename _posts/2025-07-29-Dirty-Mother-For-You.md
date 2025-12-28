@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/29/25)
 Ventilator Blues- The Rolling Stones
 

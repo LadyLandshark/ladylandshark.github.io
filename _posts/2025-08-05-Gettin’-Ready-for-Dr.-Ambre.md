@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/5/25)
 I Just Want to See His Face- The Rolling Stones
 

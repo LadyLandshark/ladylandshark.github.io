@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/23/14)
 Citadel- The Rolling Stones
 

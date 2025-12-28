@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/3/13)
 Down Home Girl- The Rolling Stones
 

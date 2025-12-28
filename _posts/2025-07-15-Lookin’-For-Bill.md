@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/15/25)
 Midnight Rambler- The Rolling Stones
 

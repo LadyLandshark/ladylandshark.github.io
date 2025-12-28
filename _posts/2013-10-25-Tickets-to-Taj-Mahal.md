@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (10/25/13)
 Doom and Gloom- The Rolling Stones
 

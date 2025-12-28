@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (2/21/14)
 Stoned- The Rolling Stones
 

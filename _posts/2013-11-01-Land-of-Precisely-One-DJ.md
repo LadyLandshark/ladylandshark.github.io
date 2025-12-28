@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (11/1/13)
 Stray Cat Blues- The Rolling Stones
 

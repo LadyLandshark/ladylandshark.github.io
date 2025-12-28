@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/18/13)
 Get Off My Cloud- The Rolling Stones
 

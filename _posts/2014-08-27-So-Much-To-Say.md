@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/27/14)
 Mother’s Little Helper- The Rolling Stones
 

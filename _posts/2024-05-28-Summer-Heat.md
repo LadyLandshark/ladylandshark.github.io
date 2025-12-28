@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/28/24)
 She's a Rainbow- The Rolling Stones
 

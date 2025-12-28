@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (11/5/14)
 She Was Hot- The Rolling Stones
 

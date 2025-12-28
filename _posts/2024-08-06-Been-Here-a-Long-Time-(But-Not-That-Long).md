@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/6/24)
 Stop Breaking Down- The Rolling Stones
 

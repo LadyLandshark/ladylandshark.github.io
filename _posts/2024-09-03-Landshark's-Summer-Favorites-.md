@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (9/3/24)
 I'm Not Signifying- The Rolling Stones
 

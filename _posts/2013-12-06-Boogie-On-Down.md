@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (12/6/13)
 Little Queenie- The Rolling Stones
 

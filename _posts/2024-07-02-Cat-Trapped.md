@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/2/24)
 Shine A Light- The Rolling Stones
 

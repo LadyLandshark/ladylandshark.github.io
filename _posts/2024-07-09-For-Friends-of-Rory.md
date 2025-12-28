@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (7/9/24)
 Honky Tonk Women- The Rolling Stones 
 

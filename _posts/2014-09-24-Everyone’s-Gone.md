@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (9/24/14)
 I’m A King Bee- The Rolling Stones
 

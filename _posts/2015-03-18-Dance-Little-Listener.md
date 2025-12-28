@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/18/15)
 Dance Little Sister- The Rolling Stones
 

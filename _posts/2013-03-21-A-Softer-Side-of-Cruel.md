@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/21/13)
 Monkey Man- The Rolling Stones
 

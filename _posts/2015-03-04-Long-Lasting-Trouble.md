@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (3/4/15)
 Sympathy For the Devil- The Rolling Stones
 

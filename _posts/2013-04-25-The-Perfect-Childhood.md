@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/25/13)
 Country Honk- The Rolling Stones
 

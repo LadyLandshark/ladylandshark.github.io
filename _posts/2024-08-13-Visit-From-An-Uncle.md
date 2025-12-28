@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (8/13/24)
 Memo From Turner- The Rolling Stones
 

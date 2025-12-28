@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/25/14)
 2000 Light Years From Home- The Rolling Stones
 

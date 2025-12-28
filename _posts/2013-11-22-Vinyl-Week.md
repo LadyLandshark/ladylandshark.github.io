@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (11/22/13)
 Monkey Man- The Rolling Stones
 

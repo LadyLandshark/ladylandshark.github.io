@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/1/15)
 Luxury- The Rolling Stones
 

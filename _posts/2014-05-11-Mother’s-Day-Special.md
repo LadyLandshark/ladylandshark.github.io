@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/11/14)
 Play With Fire- The Rolling Stones
 

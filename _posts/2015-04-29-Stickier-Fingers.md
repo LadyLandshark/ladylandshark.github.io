@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (4/29/15)
 Bitch- The Rolling Stones
 

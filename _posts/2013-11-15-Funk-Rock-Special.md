@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (11/15/13)
 I’m Free- The Rolling Stones
 

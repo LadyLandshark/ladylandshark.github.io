@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (5/2/13)
 Dear Doctor- The Rolling Stones
 

@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (10/4/13)
 Respectable- The Rolling Stones
 
