@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+<img src="/assets/img/horse.jpg" title="Me and Sincey" width="200">
+
 I am Keara Hill, Upstate New York native and Digital Equipment Corporation fan. Currently I am a PhD Candidate in CS at Binghamton University, working on probabilistic methods for reasoning about software exploitability advised by [Eric Atkinson](https://eatkinson.ca/). 
 
 Previously I worked as a Software Engineer for Grammatech (Oct 2019-Feb 2023) and Assured Information Security (Sept 2015-Sept 2019) working on various projects in the defensive security space.
