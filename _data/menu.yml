@@ -3,10 +3,15 @@ entries:
     entries:
       - title: Publications
         url: /publications
+      - title: Talks
+        url: talks
   - title: Radio Schedule
     entries:
-      - title: (Tuesdays 1300-1400 until Jan 13, weather permitting)
+      - title: (Tuesdays 1300-1600 EDT until Jan 13, weather permitting)
 
+  - title: Upcoming
+    entries:
+      - title: Radio Show this Tuesday, December 30th (if the whole world isn't ice)
   - title: Playlists  
     post_list:
       limit: 3
@@ -22,6 +27,10 @@ entries:
     entries:
       - title: Github
         url: https://github.com/LadyLandshark
+      - title: Twitch
+        url: https://www.twitch.tv/ladylandshark
+      - title: CV
+        url: academic_cv.pdf
 
   - title: Posts
     post_list:
