@@ -1,3 +1,7 @@
+---
+layout: post
+category: playlist
+---
 (1/6/26)
 Monkey Man- The Rolling Stones  
 
