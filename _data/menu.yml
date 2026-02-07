@@ -7,11 +7,12 @@ entries:
         url: talks
   - title: Radio Schedule
     entries:
-      - title: (Tuesdays 1300-1600 EDT until Jan 13, weather permitting)
+      - title: Sign-ups only (check back later!)
 
   - title: Upcoming
     entries:
-      - title: Radio Show this Tuesday, January 13th
+      - title: None
+
   - title: Playlists  
     post_list:
       limit: 3
