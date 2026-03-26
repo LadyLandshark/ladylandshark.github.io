@@ -7,11 +7,15 @@ entries:
         url: talks
   - title: Radio Schedule
     entries:
-      - title: Sign-ups only (check back later!)
+      - title: This Tuesday, 3/31/26!
+      - url: https://whrw.fm/
 
   - title: Upcoming
     entries:
-      - title: None
+      - title: (3/31/26) Radio Show
+      - url: https://whrw.fm/
+        #- title: (5/13/26) Poster session @HCSS
+        #- url: https://sos-vo.org/group/hcss_conference/2026-posters
 
   - title: Playlists  
     post_list:
