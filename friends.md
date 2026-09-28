@@ -1,4 +1,3 @@
-# Friends
 Some friends and fellow researchers from around the PL/Formal Methods space. Please check them out!
 
 - [Arjun Vendantham](https://arjun.vedantham.xyz/)
@@ -9,3 +8,5 @@ Some friends and fellow researchers from around the PL/Formal Methods space. Ple
 - [Selene Wu](https://golshani.ca/)
 - [Sai Divvela](https://thedeveloper101.github.io/)
 - [JJ](https://toki.la/)
+- [Youssef Saleh](
+https://youssefsaleh.com/)
