@@ -10,3 +10,4 @@ Some friends and fellow researchers from around the PL/Formal Methods space. Ple
 - [JJ](https://toki.la/)
 - [Youssef Saleh](
 https://youssefsaleh.com/)
+- [Roger Burtonpatel](https://rogerburtonpatel.github.io/)
