@@ -12,3 +12,4 @@ Some friends and fellow researchers from around the PL/Formal Methods space. Ple
 https://youssefsaleh.com/)
 - [Roger Burtonpatel](https://rogerburtonpatel.github.io/)
 - [Isidore Mohr](https://isidoremohr.com/)
+- [Jonathan Chan](https://ionathan.ch/)
