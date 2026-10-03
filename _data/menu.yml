@@ -36,6 +36,9 @@ entries:
         url: https://www.linkedin.com/in/khill-hillk
       - title: CV
         url: academic_cv.pdf
+        
+  - title: Friends
+    url: friends
 
   - title: Posts
     post_list:
